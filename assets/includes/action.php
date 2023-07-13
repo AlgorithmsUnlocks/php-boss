@@ -1,8 +1,8 @@
 <?php
 session_start();
 ?>
-<?php include "../../admin/includes/functions.php"; ?>
-<?php include "../../admin/includes/database.php"; ?>
+<?php include "../../lu-admin/includes/functions.php"; ?>
+<?php include "../../lu-admin/includes/database.php"; ?>
 <?php
 
 if(isset($_POST['login_btn'])){

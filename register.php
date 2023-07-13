@@ -1,5 +1,5 @@
 <?php ob_start(); ?>
-<?php include "admin/includes/database.php"; ?>
+<?php include "lu-admin/includes/database.php"; ?>
 <!doctype html>
     <html lang="en">
     <head>
